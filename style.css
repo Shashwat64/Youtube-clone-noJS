@@ -67,6 +67,8 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(244, 242, 242);
+
 }
 .search-button1 p,#noti, .voice-search-icon p{
     position: absolute;
@@ -142,7 +144,7 @@ nav{
     flex-shrink: 0;
 }
 .Create-button{
-    background-color: rrgb(244, 242, 242);
+    background-color: rgb(244, 242, 242);
     border:none;
     height: 35px;
     border-radius: 20px;
